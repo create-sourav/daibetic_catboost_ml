@@ -137,10 +137,10 @@ streamlit run app/app.py
 
 | Metric     | Score        |
 |------------|--------------|
-| Accuracy   | ~85–90%      |
-| Precision  | High         |
-| Recall     |          |
-| AUC Score  | 0.83       |
+| Accuracy   | 0.76         |
+| Precision  | 0.78         |
+| Recall     |  0.77        |
+| AUC Score  | 0.83         |
 
 *(Your actual performance numbers can be added after training.)*
 
@@ -148,7 +148,6 @@ streamlit run app/app.py
 
 ## 🔮 Future Enhancements
 
-- [ ] Add probability visualization
 - [ ] Add SHAP explainability (feature importance)
 - [ ] Deploy app using Render / HuggingFace / Railway
 - [ ] Improve UI/UX
@@ -162,15 +161,9 @@ streamlit run app/app.py
 Machine Learning & Business Analytics Enthusiast
 
 🔗 **GitHub:** [https://github.com/create-sourav](https://github.com/create-sourav)  
-🔗 **LinkedIn:** *(add your link here)*
+🔗 **Email:** *soouravmondal5f@gmail.com*
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
+-----
 
 ## ⚠️ Disclaimer
 
