@@ -4,6 +4,9 @@ A simple and effective Machine Learning application that predicts whether a user
 
 ---
 
+Live_App_Link: https://daibeticcatboostml-mhrl4b6iwezjzpodqjqvcf.streamlit.app/
+
+---
 ## 🎯 Project Objective
 
 To build a user-friendly diabetes prediction system that:
