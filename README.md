@@ -4,7 +4,7 @@ A simple and effective Machine Learning application that predicts whether a user
 
 ---
 
-Live_App_Link: https://daibeticcatboostml-mhrl4b6iwezjzpodqjqvcf.streamlit.app/
+Live_App_Link: https://diabeticcatboostml-juudkddoaq9q7t6i6onj7r.streamlit.app/
 
 ---
 ## 🎯 Project Objective
